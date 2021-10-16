@@ -1,0 +1,949 @@
+.sendedu {
+    margin-top: 1rem;
+    width: 100%;
+    text-align: left !important;
+    float: 0;
+    clear: both;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.foot {
+    background-color: #555;
+    height: 60px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+.foot i {
+    color: #fff;
+    font-family: "FontAwesome" !important;
+}
+
+.dark {
+    background-color: #555 !important;
+}
+
+.foot ul {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+}
+
+.foot li {
+    text-decoration: none;
+    display: inline;
+    padding: 1.3rem;
+}
+
+.foot a {
+    color: #fff;
+    font-family: "Measure Thin";
+    font-size: 1rem;
+}
+
+.cta {
+    width: 90%;
+    max-width: 800px;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 1.5em;
+    margin-top: 0.5em;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta select {
+    background: #fff;
+    line-height: 1rem;
+
+    -webkit-appearance: none;
+}
+
+.modal div,
+input {
+    padding: 0.5rem;
+}
+
+.lower {
+    margin-top: 0 !important;
+    padding-top: 2.5em;
+    margin-bottom: 1em;
+}
+
+.lower form > fieldset > div > div > div > input {
+}
+.lower {
+    background-color: transparent;
+    border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+}
+.cta h2,
+.modal-header h2 {
+    font-size: 1.1em;
+    color: rgba(247, 111, 55, 1);
+    font-family: "Measure Regular";
+    margin-bottom: 0.8em;
+}
+
+.cta input {
+    font-size: 0.8em;
+}
+
+.cta div {
+    margin-bottom: 0.5em;
+    padding: 0 0.3em 0 0.3em;
+}
+
+.nav-top {
+    background: rgba(0, 0, 0, 0.6);
+    border: 0;
+    height: 2.5em;
+    position: fixed;
+    width: 100%;
+    z-index: 30;
+}
+
+.logo {
+    padding-top: 0.7em;
+    width: 3.5em;
+    height: auto;
+    float: right;
+    margin-right: 40px;
+}
+
+.extra {
+    font-size: 0.8rem;
+    font-family: "Measure Light";
+}
+
+button.getstarted {
+    color: #ffffff;
+    padding: 0.3em 0.6em 0em 0.6em;
+    background-color: #ed6d37;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    border-radius: 0.3em;
+    border: 0px;
+    margin-top: 1.2em;
+    font-size: 0.6em;
+}
+
+.dropdown-menu {
+    margin-top: 0.9em;
+    padding: 1.5em;
+    right: 10em;
+}
+button.login {
+    color: #ffffff;
+    padding: 0.3em 0.6em 0em 0.6em;
+    background-color: #ed6d37;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    border-radius: 0.3em;
+    border: 0px;
+    margin-top: 1.2em;
+    font-size: 0.6em;
+}
+
+button.send {
+    color: #ffffff;
+    padding: 0.3em 0.6em 0em 0.6em;
+    background-color: #ed6d37;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    border-radius: 0.3em;
+    border: 0px;
+    margin-top: 1.2em;
+    font-size: 0.6em;
+}
+
+button.sendapp {
+    color: #ffffff;
+    padding: 0.5em 1em 0.35em 1em;
+    background-color: #ed6f37;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    border-radius: 0.3em;
+    border: 0px;
+    font-size: 0.8em;
+    width: 100%;
+}
+
+button.sendappinverse {
+    color: #ed6f37;
+    padding: 0.6em 1em 0.35em 1em;
+    background-color: #fff;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    border-radius: 0.3em;
+    border: 0px;
+    font-size: 0.8em;
+    width: 100%;
+    font-family: "Measure Semibold";
+}
+
+button.starthere {
+    color: #ed6f37;
+    padding: 0.3em 1em 0em 1em;
+    background-color: #fff;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    border-radius: 0.3em;
+    border: 0px;
+    margin-top: 2.9%;
+    font-size: 2em;
+    font-family: "Measure Medium";
+}
+
+.sell {
+    text-align: center;
+}
+.nav-top h6 {
+    padding-top: 0.4em;
+    font-family: "Measure Light";
+    font-size: 1.6em;
+    color: #fff;
+    font-weight: 200;
+    font-style: normal;
+    position: relative;
+}
+
+.lead {
+    margin-top: 30%;
+    text-align: center;
+}
+
+.lead h1 {
+    font-family: "Measure Semibold";
+    line-height: 0.8em;
+}
+.lead h2 {
+    margin-top: 30%;
+    font-family: "Measure Medium";
+    line-height: 0.8em;
+}
+
+.center {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+html,
+body,
+div,
+p,
+span {
+    font-family: "Measure Regular";
+    font-weight: 200;
+    font-size: 16px;
+}
+
+b,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Measure Regular";
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+    /*text-shadow: 1px 1px 100px #333;*/
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-family: "Measure Light";
+    font-weight: 300;
+    font-size: 1.3em;
+}
+
+.icon-phone {
+    /*width: 3.5em;
+	height: auto;*/
+    height: 5em;
+    width: auto;
+    margin-bottom: 2em;
+}
+
+.icon-dash {
+    width: 7.3em;
+    height: auto;
+    margin-bottom: 2em;
+}
+
+.icon-help {
+    width: 7.5em;
+    height: auto;
+    margin-bottom: 2em;
+}
+
+.iphone-wrap {
+    position: relative;
+    height: 500px;
+}
+
+.iphone {
+    position: absolute;
+    bottom: 0;
+    left: 8em;
+}
+
+.left-pad {
+    margin-left: 5%;
+}
+
+.seal {
+    float: left;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
+.dash-quote {
+    margin-bottom: 1.9em;
+}
+
+.seal-head {
+    padding-bottom: 0.8em;
+}
+
+.ipad-wrap {
+    position: relative;
+    height: 500px;
+}
+
+.ipad {
+    position: absolute;
+    right: 2em;
+    top: 4em;
+}
+
+.video-wrap {
+    padding-left: 18%;
+    padding-top: 6em;
+    padding-bottom: 4em;
+}
+
+.exp {
+    margin-bottom: 1.8em;
+}
+
+.down-arrow {
+    margin-top: -45px;
+    width: 91px;
+}
+
+.arrow-wrap {
+    position: absolute;
+    width: 100%;
+}
+
+.arrow-wrap img {
+    position: relative;
+    opacity: 0.75;
+}
+
+.arrow-wrap img:hover {
+    opacity: 1;
+}
+
+em,
+i {
+    font-family: "Measure Regular Italic" !important;
+    font-weight: 200;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+hr.first-line {
+    position: absolute;
+    bottom: 0;
+    width: 6%;
+    border-top: 1px dotted #fff;
+    margin-left: 46%;
+    text-align: center;
+}
+
+.px {
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.navbar > .div {
+    opacity: 1 !important;
+}
+.girl-sun {
+    height: 80%;
+    width: 100%;
+    background-image: url(../images/saturdays/girl-sun.jpg);
+    padding-top: 60px;
+    top: 80px;
+}
+
+.phone-glance {
+    height: 60%;
+    background-image: url(../images/saturdays/phone-glance.jpg);
+}
+
+.girl-smile {
+    height: 60%;
+    background-image: url(../images/saturdays/girl-smile.jpg);
+}
+
+.boy-study {
+    height: 60%;
+    background-image: url(../images/saturdays/boy-study.jpg);
+}
+
+.knit-hat {
+    height: 60%;
+    background-image: url(../images/saturdays/knit-hat.jpg);
+}
+
+.blue-bg {
+}
+
+.copy {
+    padding-right: 1.2em;
+}
+
+.copy p,
+h3 {
+    color: #fff;
+}
+
+.copy p {
+    font-size: 1.3em;
+    font-family: "Measure Thin";
+    font-weight: 300;
+    line-height: 1.1em;
+}
+
+.copy h4 {
+    font-size: 1.5em;
+    font-family: "Measure Regular";
+    font-weight: 300;
+    color: #fff;
+}
+
+.p1 {
+    background-color: #ed6f37;
+    padding-top: 3.125em;
+}
+
+.cop {
+    color: #fff;
+    text-align: center;
+    font-weight: 200;
+    font-family: "Measure Thin";
+}
+.p1 p {
+    padding-bottom: 2em;
+}
+
+.p1 h3 {
+    padding-bottom: 0.8em;
+}
+
+.p1 img {
+}
+.p2 {
+    background-color: #344270;
+}
+
+.p2 h3 {
+    margin-top: 2.9em;
+    margin-bottom: 1em;
+}
+
+.p2 p {
+    margin-bottom: 2em;
+}
+
+.p3 {
+    background-color: #d8462f;
+}
+.p3 h3 {
+    margin-top: 1.6em;
+    margin-bottom: 1em;
+}
+.p4 {
+    background-color: #7998b2;
+}
+.p4 h3 {
+    margin-top: 1.6em;
+    margin-bottom: 1em;
+}
+.p5 {
+    background-color: #ed6f37;
+}
+.p5 h3 {
+    margin-top: 2em;
+}
+
+.plans {
+    color: #fff;
+}
+
+.check-light {
+    opacity: 0.6;
+    text-align: center;
+}
+
+.cost-light {
+    opacity: 0.8;
+    font-family: "Measure Thin";
+}
+
+.no-border > td {
+    border-top: 0 !important;
+    border-bottom: 0 !important;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.plans td {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.plans td:first-child {
+    text-align: left;
+}
+
+.table-center td {
+    text-align: center;
+}
+
+.average {
+    font-size: 0.9em !important;
+    font-family: "Measure Thin";
+    text-align: right;
+    width: 100%;
+    opacity: 0.8;
+}
+
+.icons {
+    margin-top: 7em;
+    margin-left: 25%;
+    margin-right: auto;
+    margin-bottom: 2em;
+}
+.icons img {
+    height: 50px;
+}
+
+.icons div {
+    text-align: center;
+}
+
+.help-icon {
+    margin-left: 1.8rem;
+}
+
+.copyright {
+    position: absolute;
+    top: 20.6em;
+    left: 25em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4.order {
+    font-size: 1.8em;
+    font-weight: 200;
+    font-family: "Measure Regular";
+    text-align: center !important;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+h4.only {
+    font-size: 1em;
+    font-weight: 300;
+    font-family: "Measure Semibold";
+    text-align: center;
+}
+
+.cright {
+    position: absolute;
+    right: -80%;
+    color: #fff;
+    font-size: 0.9em !important;
+    font-family: "Measure Thin";
+}
+
+button.starthere {
+    margin-bottom: 2em;
+}
+
+@media screen and (max-width: 768px) {
+    .girl-sun {
+        height: 80%;
+        width: 100%;
+        background-image: url(../images/saturdays/girl-sun.jpg);
+        padding-top: 0px !important;
+        top: 0px !important;
+    }
+    .px {
+        background-position: 0px 0px !important;
+        background-attachment: scroll !important;
+        background-size: cover;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1170px) {
+    html,
+    body,
+    div,
+    p,
+    span {
+        font-family: "Measure Regular";
+        font-weight: 200;
+        font-size: 12px;
+    }
+
+    .cta {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    div > input,
+    div > button {
+        font-size: 13px !important;
+    }
+
+    h2 {
+        font-size: 18px !important;
+    }
+
+    .px {
+        height: 500px;
+    }
+
+    .ipad-wrap,
+    .iphone-wrap,
+    .video-wrap {
+        height: 100%;
+    }
+    .ipad-wrap > img {
+        width: 95%;
+        margin-left: 2rem;
+        margin-top: 8rem;
+    }
+
+    .iphone-wrap {
+        position: relative;
+        height: 100%;
+    }
+
+    .iphone-wrap > img {
+        width: 300px;
+        margin-left: 2rem;
+        margin-top: 4rem;
+        position: absolute !important;
+        bottom: 2rem;
+    }
+
+    .video-wrap {
+        height: 100%;
+    }
+    .video-wrap > img {
+        width: 300px;
+        margin-left: -2rem;
+        margin-top: -1rem;
+        bottom: 2rem;
+    }
+
+    .video,
+    .iphone,
+    .ipad {
+        left: 0;
+        top: -100%;
+    }
+
+    .left-pad,
+    .right-pad {
+        padding-bottom: 45px;
+    }
+
+    .lead {
+        margin-left: auto !important;
+        margin-right: auto !important;
+        text-align: center !important;
+    }
+}
+@media screen and (min-width: 769px) {
+    .cta h2 {
+        font-size: 24px;
+    }
+
+    .cta {
+        width: 600px;
+        margin-right: 7%;
+        margin-top: 10%;
+    }
+
+    .lower {
+        width: 100% !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+    .quote {
+        font-size: 1rem !important;
+    }
+    .nav-top {
+        background: rgba(0, 0, 0, 0.6);
+        border: 0;
+        height: 3.75em;
+        margin-bottom: 5em;
+        position: fixed;
+        width: 100%;
+        z-index: 30;
+    }
+
+    .logo {
+        padding-top: 0.5em;
+        width: 9em;
+        height: auto;
+        float: right;
+        margin-right: 40px;
+    }
+
+    button.getstarted {
+        margin-top: 5.9%;
+        font-size: 1.3rem;
+    }
+
+    button.login {
+        margin-top: 5.9%;
+        font-size: 1.3rem;
+    }
+
+    button.send {
+        font-size: 1rem;
+    }
+
+    /*	body, .px, .copy, #nav-top {
+
+		min-width: 1200px !important;
+		overflow-x: hidden;
+	}*/
+
+    .plans td {
+        font-size: 1.2em;
+    }
+
+    .strike {
+        font-size: 1.2rem;
+    }
+
+    .right-pad {
+        margin-left: -15%;
+        padding-right: 5em;
+    }
+
+    h3 {
+        font-size: 2.5em;
+    }
+
+    h4.order {
+        font-size: 2em;
+        font-weight: 200;
+        font-family: "Measure Light";
+        text-align: left;
+    }
+
+    h4.only {
+        font-size: 2em;
+        font-weight: 300;
+        font-family: "Measure Regular";
+        text-align: left;
+    }
+
+    .sell {
+        text-align: left;
+    }
+    button.starthere {
+        margin-bottom: 0;
+    }
+
+    .lead {
+        margin-top: 8%;
+        margin-left: 35%;
+        text-align: left;
+    }
+
+    .lead h2 {
+        margin-top: -0.45em;
+        margin-left: 1%;
+    }
+
+    h1 {
+        font-size: 2.5em;
+    }
+
+    h2 {
+        font-family: "Measure Light";
+        font-weight: 300;
+        font-size: 1.3em;
+    }
+
+    .lead h1 {
+        font-family: "Measure Regular";
+        line-height: 1em;
+    }
+    .lead h2 {
+        margin-top: -0.4em;
+        font-family: "Measure Light";
+        line-height: 1em;
+    }
+}
+
+@media screen and (max-device-width: 1024px) and (orientation: landscape) {
+    .lead {
+        margin-top: 10%;
+    }
+
+    .lead h1 {
+        font-size: 1rem;
+    }
+
+    .nav-top {
+        height: 1rem;
+    }
+    .nav-top * {
+        font-size: 0.5rem;
+    }
+
+    .cta {
+        padding: 0.5rem;
+    }
+
+    .cta input,
+    .cta select,
+    .cta button {
+        font-size: 0.5rem;
+        height: 1.2rem;
+    }
+
+    .cta select {
+        line-height: 0.5rem !important;
+    }
+
+    .cta h2 {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    .lead {
+        margin-top: 10%;
+    }
+
+    .nav-top h6 {
+        font-size: 0.8rem;
+        line-height: 0.4rem;
+    }
+    .lead h1 {
+        font-size: 2rem;
+        font-family: "Measure Regular";
+    }
+
+    .lead h2 {
+        font-size: 1.5rem;
+        font-family: "Measure Regular";
+        margin-top: 0;
+    }
+
+    .nav-top {
+        height: 2rem;
+    }
+    .nav-top * {
+        font-size: 0.9rem;
+    }
+
+    .cta {
+        margin: 10% 10%;
+        padding: 1.5rem;
+    }
+
+    .cta input,
+    .cta select,
+    .cta button {
+        font-size: 0.9rem;
+        height: 2rem;
+    }
+
+    .cta select {
+        line-height: 0.9rem !important;
+    }
+
+    .cta h2 {
+        font-size: 2rem;
+    }
+
+    .iphone-wrap > img {
+        margin: 0;
+        top: 2rem;
+        left: 3rem;
+        padding: 0;
+        width: 60%;
+    }
+    .ipad-wrap > img,
+    .iphone-wrap > img,
+    .video-wrap > img {
+        width: 90%;
+    }
+    .video-wrap > img {
+        margin-top: -1rem;
+    }
+    .ipad-wrap > img {
+        margin-top: 7rem;
+    }
+
+    .copy p {
+        font-size: 0.8rem;
+    }
+
+    .copy h3 {
+        font-size: 1.6rem;
+    }
+    .copy h4 {
+        font-size: 1.2rem;
+    }
+    .arrow-wrap img {
+        margin-top: 20px;
+        width: 50px;
+    }
+}
